@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "ES6",
     "module": "commonjs",
-    "rootDir": "./src",
+    "rootDir": "notion-apin-api/src",
     "outDir": "./build",
     "esModuleInterop": true,
     "strict": true

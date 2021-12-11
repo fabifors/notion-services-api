@@ -1,8 +1,8 @@
-import express from "express";
 import routes from "./routes";
 
-const app = express();
+const express = require("express");
 
+const app = express();
 /**
  * Programatically create all routes
  */

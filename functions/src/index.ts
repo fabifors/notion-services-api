@@ -9,6 +9,6 @@ import * as functions from "firebase-functions";
 // });
 
 
-import app from '../../src';
+import app from './notion-api';
 
 exports.app = functions.https.onRequest(app);
